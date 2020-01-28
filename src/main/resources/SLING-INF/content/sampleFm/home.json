@@ -1,0 +1,5 @@
+{
+    "jcr:primaryType" : "nt:unstructured",
+    "jcr:title" : "Welcome to Sample FM.",
+    "sling:resourceType" : "sampleFm/page"
+}

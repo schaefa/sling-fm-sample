@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.sling</groupId>
+  <artifactId>org.apache.sling.feature.starter</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200127215702</lastUpdated>
+  </versioning>
+</metadata>
