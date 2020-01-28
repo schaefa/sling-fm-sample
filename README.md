@@ -17,9 +17,20 @@ started before.
 
 ## Launching
 
-The project is launched by its profile:
+There are two ways to launch the project. Either use the Sling Starter
+Feature Maven Plugin in the **launch** profile or launch it directly with
+the Sling Feature Starter JAR file.
+
+Launch the Project with the Maven Profile:
 ```
 mvn install -P launch
+```
+
+Launch the Project with the Sling Feature Starter JAR file in the
+root folder of this project:
+```
+java -jar repository/org/apache/sling/org.apache.sling.feature.starter/0.0.1-SNAPSHOT/org.apache.sling.feature.starter-0.0.1-SNAPSHOT.jar \
+  -af target/slingfeature-tmp/feature-test.json
 ```
 
 ## Usage
