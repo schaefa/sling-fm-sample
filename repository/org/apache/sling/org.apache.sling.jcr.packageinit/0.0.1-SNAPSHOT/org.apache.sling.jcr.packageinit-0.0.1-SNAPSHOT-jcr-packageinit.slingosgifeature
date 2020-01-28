@@ -1,0 +1,6 @@
+{
+  "id":"org.apache.sling:org.apache.sling.jcr.packageinit:slingosgifeature:jcr-packageinit:0.0.1-SNAPSHOT",
+  "bundles":[
+    "org.apache.sling:org.apache.sling.jcr.packageinit:0.0.1-SNAPSHOT"
+  ]
+}
