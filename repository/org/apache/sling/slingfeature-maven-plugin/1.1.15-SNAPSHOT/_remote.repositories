@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jan 27 08:54:32 PST 2020
+slingfeature-maven-plugin-1.1.15-SNAPSHOT.jar>=
+slingfeature-maven-plugin-1.1.15-SNAPSHOT.pom>=
+slingfeature-maven-plugin-1.1.15-SNAPSHOT-sources.jar>=
