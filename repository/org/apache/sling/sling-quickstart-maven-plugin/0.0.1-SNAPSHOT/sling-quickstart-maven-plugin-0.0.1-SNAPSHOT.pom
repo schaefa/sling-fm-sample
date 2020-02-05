@@ -21,13 +21,13 @@
         <relativePath />
     </parent>
 
-    <artifactId>slingstart-feature-maven-plugin</artifactId>
+    <artifactId>sling-quickstart-maven-plugin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
-    <name>Apache Sling SlingStart Feature Maven Plugin</name>
+    <name>Apache Sling Quickstart Maven Plugin</name>
     <description>
-        Maven Plugin supporting Sling Feature Launchpad
+        Maven Plugin providing the ability to start/stop Sling Quickstart
     </description>
     <url>https://sling.apache.org/components/slingstart-maven-plugin/</url>
 
