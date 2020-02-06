@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>org.apache.sling</groupId>
-  <artifactId>sling-quickstart-maven-plugin</artifactId>
+  <artifactId>org.apache.sling.kickstart</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20200204214357</lastUpdated>
+    <lastUpdated>20200206193554</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20200204214357</updated>
+        <updated>20200206193554</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20200204214357</updated>
+        <updated>20200206193554</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20200204214357</updated>
+        <updated>20200206193554</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

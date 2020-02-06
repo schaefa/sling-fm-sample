@@ -29,20 +29,20 @@ mvn install -P launch
 Launch the Project with the Sling Feature Starter JAR file in the
 root folder of this project:
 ```
-    java -jar repository/org/apache/sling/org.apache.sling.quickstart/0.0.1-SNAPSHOT/org.apache.sling.quickstart-0.0.1-SNAPSHOT.jar \
+    java -jar repository/org/apache/sling/org.apache.sling.kickstart/0.0.1-SNAPSHOT/org.apache.sling.kickstart-0.0.1-SNAPSHOT.jar \
   -af target/slingfeature-tmp/feature-test.json
 ```
 
 To Launch the same thing with a process in the background:
 ```
-java -jar repository/org/apache/sling/org.apache.sling.quickstart/0.0.1-SNAPSHOT/org.apache.sling.quickstart-0.0.1-SNAPSHOT.jar \
+java -jar repository/org/apache/sling/org.apache.sling.kickstart/0.0.1-SNAPSHOT/org.apache.sling.kickstart-0.0.1-SNAPSHOT.jar \
   start \
   -af target/slingfeature-tmp/feature-test.json &
 ```
 
 To stop the instance:
 ```
-java -jar repository/org/apache/sling/org.apache.sling.quickstart/0.0.1-SNAPSHOT/org.apache.sling.quickstart-0.0.1-SNAPSHOT.jar \
+java -jar repository/org/apache/sling/org.apache.sling.kickstart/0.0.1-SNAPSHOT/org.apache.sling.kickstart-0.0.1-SNAPSHOT.jar \
   stop
 ```
 

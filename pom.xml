@@ -438,9 +438,9 @@
             <dependencies>
                 <dependency>
                     <groupId>org.apache.sling</groupId>
-                    <artifactId>org.apache.sling.quickstart</artifactId>
+                    <artifactId>org.apache.sling.kickstart</artifactId>
                     <version>0.0.1-SNAPSHOT</version>
-                    <type>slingquickstart</type>
+                    <type>slingkickstart</type>
                 </dependency>
             </dependencies>
 
@@ -468,7 +468,7 @@
                     </plugin>
                     <plugin>
                         <groupId>org.apache.sling</groupId>
-                        <artifactId>sling-quickstart-maven-plugin</artifactId>
+                        <artifactId>sling-kickstart-maven-plugin</artifactId>
                         <version>0.0.1-SNAPSHOT</version>
                         <extensions>true</extensions>
                         <executions>

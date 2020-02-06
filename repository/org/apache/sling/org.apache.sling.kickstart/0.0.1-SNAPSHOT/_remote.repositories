@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 06 11:35:54 PST 2020
+org.apache.sling.kickstart-0.0.1-SNAPSHOT.pom>=
+org.apache.sling.kickstart-0.0.1-SNAPSHOT-sources.jar>=
+org.apache.sling.kickstart-0.0.1-SNAPSHOT.jar>=

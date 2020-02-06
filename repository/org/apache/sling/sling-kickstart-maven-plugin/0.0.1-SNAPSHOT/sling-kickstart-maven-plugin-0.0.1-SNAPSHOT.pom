@@ -21,7 +21,7 @@
         <relativePath />
     </parent>
 
-    <artifactId>sling-quickstart-maven-plugin</artifactId>
+    <artifactId>sling-kickstart-maven-plugin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 

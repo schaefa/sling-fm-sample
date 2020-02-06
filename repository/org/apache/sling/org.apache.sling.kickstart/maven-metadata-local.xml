@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.apache.sling</groupId>
-  <artifactId>sling-quickstart-maven-plugin</artifactId>
+  <artifactId>org.apache.sling.kickstart</artifactId>
   <versioning>
-    <latest>0.0.1-SNAPSHOT</latest>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200204214357</lastUpdated>
+    <lastUpdated>20200206193554</lastUpdated>
   </versioning>
 </metadata>

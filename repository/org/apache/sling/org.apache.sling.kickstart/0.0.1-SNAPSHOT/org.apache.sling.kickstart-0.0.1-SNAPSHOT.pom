@@ -20,11 +20,11 @@
         <relativePath />
     </parent>
 
-    <artifactId>org.apache.sling.quickstart</artifactId>
+    <artifactId>org.apache.sling.kickstart</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>slingquickstart</packaging>
+    <packaging>slingkickstart</packaging>
 
-    <name>Apache Sling Quickstart Launcher</name>
+    <name>Apache Sling Kickstart Launcher</name>
     <description>
         An Executable JAR file to launch Sling
     </description>
@@ -115,7 +115,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.apache.sling.quickstart.app.SlingStarter</mainClass>
+                            <mainClass>org.apache.sling.kickstart.app.SlingStarter</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -154,7 +154,7 @@
             </plugin>
             <plugin>
                 <groupId>org.apache.sling</groupId>
-                <artifactId>sling-quickstart-maven-plugin</artifactId>
+                <artifactId>sling-kickstart-maven-plugin</artifactId>
                 <version>0.0.1-SNAPSHOT</version>
                 <extensions>true</extensions>
                 <executions>
